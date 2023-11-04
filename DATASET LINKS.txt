@@ -1,0 +1,8 @@
+DATASET01:
+https://www.kaggle.com/datasets/solarmainframe/ids-intrusion-csv/?select=03-02-2018.csv
+
+DATASET02:
+https://www.kaggle.com/datasets/solarmainframe/ids-intrusion-csv/?select=03-01-2018.csv
+
+DATASET03:
+https://www.kaggle.com/datasets/solarmainframe/ids-intrusion-csv/?select=02-14-2018.csv
